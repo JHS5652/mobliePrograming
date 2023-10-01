@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Web develop"  android:id="@+id/web"/>
+    <item
+        android:title="Flask" android:id="@+id/flask"/>
+    <item
+        android:title="Arduino" android:id="@+id/arduino"/>
+</menu>
